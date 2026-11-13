@@ -261,8 +261,6 @@ A dashboard concept for exploring salary benchmarking and compensation insights.
 |:---|:---|
 | 🥇 Fossathon 2025 | First Prize |
 | 🌍 NASA Space Apps Challenge 2025 | Global Nominee |
-| 🏆 NASA Space Apps Challenge 2024 | Best Use of Data — Trivandrum Local Winner |
-| 🥉 Arcane Hackathon 2024 | Third Prize |
 | 🥉 IEEE WIE Epilogue 2.0 | Third Prize |
 | ✨ TinkHerHack 4.0 | Two projects selected among Top 300 across Kerala |
 
@@ -280,7 +278,6 @@ I believe a strong tech community is built through collaboration, leadership and
 | IEEE WIE CEAL | Vice Chair |
 | Train303 | Executive Member |
 | FOSS CEAL | Volunteer |
-| TinkerHub CEAL | Learning Coordinator & Outreach Lead |
 
 ---
 
