@@ -3,40 +3,42 @@
 <!--             PAVITHRA | README             -->
 <!-- ========================================= -->
 
-<div align="center">
 
-<sub>✦ PAVI.WEB &nbsp; / &nbsp; PERSONAL DIGITAL STUDIO &nbsp; / &nbsp; 2026</sub>
+<h2>Hey, I'm Pavithra 👋</h2>
 
-<br/><br/>
-
-# I build digital experiences.
-
-### Design × Code × Creativity
+<h3>
+  <span>Frontend Developer</span> &nbsp;·&nbsp;
+  <span>UI/UX Designer</span>
+</h3>
 
 <p>
-  I'm <b>Pavithra Madhusoodhanan</b> — a Computer Science Engineering student who enjoys turning ideas into intuitive interfaces and meaningful digital products.
+  Computer Science Engineering student passionate about
+  designing intuitive interfaces and building meaningful
+  digital experiences.
 </p>
 
-<br/>
+<p>
+  I enjoy turning creative ideas into functional products
+  through design, frontend development and experimentation.
+</p>
 
-<img src="https://img.shields.io/badge/01-DESIGN-8B7BFF?style=flat-square" />
-<img src="https://img.shields.io/badge/02-DEVELOP-06B6D4?style=flat-square" />
-<img src="https://img.shields.io/badge/03-CREATE-C084FC?style=flat-square" />
+<p>
+  <b>Currently exploring:</b>
+  React.js · JavaScript · Figma
+  <br/>
+  <b>Also interested in:</b>
+  AI/ML · Creative Technology
+</p>
 
-<br/><br/>
+<p>
+  <a href="https://github.com/pavi-web">GitHub</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/pavithra-madhusoodhanan-3b1572291">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="mailto:kvsudha38@gmail.com">Email</a>
+</p>
 
-<a href="https://github.com/pavi-web">
-  <img src="https://komarev.com/ghpvc/?username=pavi-web&style=flat-square&color=8B7BFF&label=VISITORS" alt="Profile views"/>
-</a>
-<a href="https://github.com/pavi-web?tab=followers">
-  <img src="https://img.shields.io/github/followers/pavi-web?style=flat-square&color=06B6D4&label=FOLLOWERS" alt="Followers"/>
-</a>
+---
 
-<br/><br/>
 
-<sub>KERALA, INDIA &nbsp; • &nbsp; COMPUTER SCIENCE &nbsp; • &nbsp; OPEN TO COLLABORATIONS</sub>
-
-</div>
 
 ---
 
