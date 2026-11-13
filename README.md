@@ -1,50 +1,108 @@
 
+<!-- ========================================= -->
+<!--             PAVITHRA | README             -->
+<!-- ========================================= -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=220&color=0:09090F,45:312E81,100:06B6D4&text=PAVITHRA&fontSize=65&fontColor=FFFFFF&fontAlignY=42&desc=FRONTEND%20DEVELOPER%20%7C%20UI%2FUX%20DESIGNER&descSize=16&descAlignY=65&animation=fadeIn" width="100%" alt="Pavithra profile banner"/>
+<sub>✦ PAVI.WEB &nbsp; / &nbsp; PERSONAL DIGITAL STUDIO &nbsp; / &nbsp; 2026</sub>
+
+<br/><br/>
+
+# I build digital experiences.
+
+### Design × Code × Creativity
+
+<p>
+  I'm <b>Pavithra Madhusoodhanan</b> — a Computer Science Engineering student who enjoys turning ideas into intuitive interfaces and meaningful digital products.
+</p>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1000&color=67E8F9&center=true&vCenter=true&width=650&lines=Designing+experiences%2C+building+interfaces.;Turning+creative+ideas+into+digital+products.;Frontend+Development+%E2%80%A2+UI%2FUX+Design;Exploring+the+intersection+of+design+%26+technology." alt="Typing animation"/>
+<img src="https://img.shields.io/badge/01-DESIGN-8B7BFF?style=flat-square" />
+<img src="https://img.shields.io/badge/02-DEVELOP-06B6D4?style=flat-square" />
+<img src="https://img.shields.io/badge/03-CREATE-C084FC?style=flat-square" />
 
 <br/><br/>
 
 <a href="https://github.com/pavi-web">
-<img src="https://komarev.com/ghpvc/?username=pavi-web&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=pavi-web&style=flat-square&color=8B7BFF&label=VISITORS" alt="Profile views"/>
 </a>
 <a href="https://github.com/pavi-web?tab=followers">
-<img src="https://img.shields.io/github/followers/pavi-web?style=for-the-badge&color=0891B2&logo=github&label=FOLLOWERS" alt="Followers"/>
+  <img src="https://img.shields.io/github/followers/pavi-web?style=flat-square&color=06B6D4&label=FOLLOWERS" alt="Followers"/>
 </a>
+
+<br/><br/>
+
+<sub>KERALA, INDIA &nbsp; • &nbsp; COMPUTER SCIENCE &nbsp; • &nbsp; OPEN TO COLLABORATIONS</sub>
 
 </div>
 
 ---
 
-## 01 / About Me
+## 01. The person behind the pixels
 
-Hey there! 👋 I'm **Pavithra Madhusoodhanan**, a Computer Science Engineering student from Kerala, India.
+Hey! 👋 I'm Pavithra, a B.Tech Computer Science and Engineering student at **College of Engineering Attingal, Kerala**.
 
-I'm passionate about creating intuitive digital experiences and building meaningful things for the web.
+I enjoy exploring the creative side of technology — designing interfaces, developing web applications and experimenting with ideas that make everyday experiences better.
 
-I enjoy the intersection of **design and development** — from sketching ideas in Figma to bringing them to life through code.
+My primary focus is **Frontend Development and UI/UX Design**, while I also explore Artificial Intelligence and Machine Learning.
 
-- 🎓 B.Tech Computer Science & Engineering
-- 🎨 Interested in UI/UX Design and creating user-friendly interfaces
-- 💻 Exploring Frontend Development and modern web technologies
-- 🤖 Interested in Artificial Intelligence and Machine Learning
-- 🌱 Constantly learning, experimenting and building
-- 🤝 Open to collaborations and learning opportunities
+- 🎨 Designing intuitive and visually engaging interfaces.
+- 💻 Turning design concepts into functional web experiences.
+- 🌐 Exploring modern frontend technologies.
+- 🤖 Experimenting with AI/ML applications.
+- 🚀 Building projects and participating in hackathons.
+- 🤝 Connecting with people who love creating things.
 
 ---
 
-## 02 / My Developer Identity
+## 02. My creative workspace
+
+<div align="center">
+
+<table width="100%">
+<tr>
+<td align="center" width="33%">
+
+### 🎨
+
+**DESIGN**
+
+<sub>Figma · UI · UX</sub>
+
+</td>
+<td align="center" width="33%">
+
+### 💻
+
+**DEVELOP**
+
+<sub>HTML · CSS · JavaScript</sub>
+
+</td>
+<td align="center" width="33%">
+
+### ✨
+
+**EXPLORE**
+
+<sub>AI · ML · Innovation</sub>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+### A little about my workflow
 
 ```javascript
 const pavithra = {
     role: "Frontend Developer & UI/UX Designer",
-    location: "Kerala, India",
+
     education: "B.Tech Computer Science",
-    
+
     interests: [
         "Frontend Development",
         "UI/UX Design",
@@ -52,14 +110,15 @@ const pavithra = {
         "Artificial Intelligence"
     ],
 
-    currentlyLearning: [
-        "React.js",
-        "JavaScript",
-        "Modern UI Design"
-    ],
-
     designTool: "Figma",
-    editor: "VS Code",
+
+    technologies: [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "React",
+        "Python"
+    ],
 
     philosophy: "Design with purpose. Develop with passion."
 };
@@ -67,79 +126,151 @@ const pavithra = {
 
 ---
 
-## 03 / Tech Stack
+## 03. Tools of my trade
 
-### Frontend Development
+<sub>TECHNOLOGIES I'M EXPLORING AND WORKING WITH</sub>
+
+**01 — Frontend Development**
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js,react,threejs&theme=dark" alt="Frontend technologies"/>
 </p>
 
-### UI/UX & Design
+**02 — UI/UX & Creative Design**
 
 <p>
 <img src="https://skillicons.dev/icons?i=figma&theme=dark" alt="Figma"/>
 </p>
 
-### Programming & Data
+**03 — Programming & Data**
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,c,mysql&theme=dark" alt="Programming languages and databases"/>
+<img src="https://skillicons.dev/icons?i=python,java,c,mysql&theme=dark" alt="Programming languages"/>
 </p>
 
 <p>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit Learn"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
 </p>
 
-### Tools & Technologies
+**04 — Development Tools**
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,nodejs&theme=dark" alt="Development tools"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Development tools"/>
 </p>
 
 ---
 
-## 04 / Featured Projects
+## 04. Selected creations
 
-A collection of ideas, experiments and projects from my development journey.
+<sub>THINGS I'VE BUILT, EXPERIMENTED WITH AND LEARNED FROM</sub>
 
-| Project | Description | Technologies |
-|:---|:---|:---|
-| 🌌 **Cosmic Explorer** | Interactive space exploration experience combining NASA imagery and 3D visualizations. | React, Three.js, OpenSeadragon |
-| 🚦 **Transitix** | Intelligent traffic management dashboard concept. | HTML, CSS, JavaScript |
-| 🍯 **HoneyMorph** | Intelligent honeypot system integrating LLM-based decision-making for cybersecurity. | Python, LLM, Cowrie |
-| 🔧 **SmartPredict** | Industrial IoT predictive maintenance project. | Python, Machine Learning |
-| 🛡️ **Rakshamitr** | Women-safety application concept focused on emergency assistance. | Application Development |
-| 📊 **Compensation Intelligence** | Dashboard concept for salary benchmarking and compensation insights. | Data Analytics, Visualization |
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🌌 Cosmic Explorer
+
+An interactive space exploration experience combining NASA imagery and 3D solar system visualizations.
+
+**Stack**
+
+`React` `Three.js` `OpenSeadragon`
+
+</td>
+<td width="50%" valign="top">
+
+### 🍯 HoneyMorph
+
+An intelligent honeypot system integrating LLM-based decision-making for adaptive cybersecurity responses.
+
+**Stack**
+
+`Python` `LLM` `Cowrie`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🚦 Transitix
+
+An intelligent traffic management dashboard concept focused on visualizing and managing traffic information.
+
+**Stack**
+
+`HTML` `CSS` `JavaScript`
+
+</td>
+<td width="50%" valign="top">
+
+### 🔧 SmartPredict
+
+An Industrial IoT predictive maintenance project exploring machine learning for equipment failure prediction.
+
+**Stack**
+
+`Python` `Machine Learning`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛡️ Rakshamitr
+
+A women-safety application concept focused on emergency assistance and personal safety.
+
+**Focus**
+
+`Application Development` `Safety Solutions`
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 Compensation Intelligence
+
+A dashboard concept for exploring salary benchmarking and compensation insights.
+
+**Focus**
+
+`Data Analytics` `Visualization`
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
 <a href="https://github.com/pavi-web?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE%20MY%20PROJECTS-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects"/>
+  <img src="https://img.shields.io/badge/EXPLORE%20ALL%20PROJECTS-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-## 05 / Achievements & Recognition
+## 05. Milestones & achievements
 
-Some memorable milestones from my hackathon and project-building journey.
+<sub>A FEW MOMENTS I'M PROUD OF</sub>
 
-- 🥇 **Fossathon 2025** — First Prize
-- 🌍 **NASA Space Apps Challenge 2025** — Global Nominee
-- 🏆 **NASA Space Apps Challenge 2024** — Best Use of Data, Trivandrum Local Winner
-- 🥉 **Arcane Hackathon 2024** — Third Prize
-- 🥉 **IEEE WIE Epilogue 2.0** — Third Prize
-- ✨ **TinkHerHack 4.0** — Two projects selected among Top 300 across Kerala
+| Recognition | Achievement |
+|:---|:---|
+| 🥇 Fossathon 2025 | First Prize |
+| 🌍 NASA Space Apps Challenge 2025 | Global Nominee |
+| 🏆 NASA Space Apps Challenge 2024 | Best Use of Data — Trivandrum Local Winner |
+| 🥉 Arcane Hackathon 2024 | Third Prize |
+| 🥉 IEEE WIE Epilogue 2.0 | Third Prize |
+| ✨ TinkHerHack 4.0 | Two projects selected among Top 300 across Kerala |
 
 ---
 
-## 06 / Leadership & Community
+## 06. Beyond the code
 
-I believe technology becomes more meaningful when people come together to build, learn and share knowledge.
+I believe a strong tech community is built through collaboration, leadership and sharing knowledge.
+
+**Community & Leadership**
 
 | Organization | Role |
 |:---|:---|
@@ -151,7 +282,9 @@ I believe technology becomes more meaningful when people come together to build,
 
 ---
 
-## 07 / GitHub Activity
+## 07. My GitHub corner
+
+<sub>A SNAPSHOT OF MY DEVELOPMENT JOURNEY</sub>
 
 <div align="center">
 
@@ -167,43 +300,43 @@ I believe technology becomes more meaningful when people come together to build,
 
 ---
 
-## 08 / Currently Exploring
+## 08. Currently exploring
 
 - Modern Frontend Development
 - React.js and JavaScript
-- UI/UX Design and Figma
+- UI/UX Design with Figma
 - Responsive Web Design
-- Machine Learning and AI
-- Building practical digital products
+- Artificial Intelligence and Machine Learning
+- Building useful digital products
 
 ---
 
-## 09 / Let's Connect
+## 09. Let's create something together
 
-Have an interesting idea, a project to collaborate on, or just want to talk about design and development?
+Have an interesting idea? Want to collaborate on a project? Or simply talk about design and technology?
 
-I'd love to connect!
+My inbox is open!
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/pavithra-madhusoodhanan-3b1572291">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <a href="mailto:kvsudha38@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 <a href="https://github.com/pavi-web">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 <br/><br/>
 
-✦ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ✦
+<sub>✦ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ✦</sub>
 
-### DESIGN. DEVELOP. CREATE.
+### DESIGN WITH PURPOSE. BUILD WITH CURIOSITY.
 
-*Thanks for visiting my little corner of GitHub.*
+<sub>Thanks for exploring my little corner of the internet. 💜</sub>
 
 </div>
